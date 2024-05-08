@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F0DEB3; /* Creme */
+    color: #333; /* Preto */
+}
+
+header {
+    background-color: #C65338; /* Terracota */
+    color: #FFF; /* Branco */
+    text-align: center;
+    padding: 1rem 0;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+    margin-top: 0;
+}
+
+.hero {
+    background-image: url("https://img.freepik.com/fotos-premium/brindando-e-espirrando-vinho-branco-e-tinto-em-copos-no-banner-de-fundo-branco-generative-ai_446633-7126.jpg?w=200");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 5rem 0;
+    color: #333; /* Preto */
+}
+
+.hero img {
+    width: 200px;
+    margin-bottom: 2rem;
+}
+
+.hero h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.hero p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+.btn {
+    background-color: #E6296D; /* Rubi */
+    color: #FFF; /* Branco */
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #B800
